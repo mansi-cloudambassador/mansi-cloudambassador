@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Mansi!
 
-🏢 Cloud Ambassador | 🧠 AI & Data Enthusiast | 🛠️ FastAPI Explorer
+🏢 Cloud Ambassador | 🧠 AI & Data Enthusiast
 
 ### 🚀 About Me
 
