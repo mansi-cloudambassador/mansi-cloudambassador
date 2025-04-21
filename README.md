@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Mansi!
 
-🏢 Cloud Ambassador | 🧠 AI & Data Enthusiast
+🏢 Cloud Ambassadors | 🧠 AI & Data Enthusiast
 
 ### 🚀 About Me
 
