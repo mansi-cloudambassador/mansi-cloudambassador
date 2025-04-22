@@ -5,7 +5,7 @@
 ### 🚀 About Me
 
 - 🎓 Currently working on exciting **AI-integrated data and cloud projects**
-- 🧑‍💻 Passionate about **STEM **, datatech, cloud tech and innovation
+- 🧑‍💻 Passionate about **STEM**, datatech, cloud tech and innovation
 
 ## 🔗 Connect with Me
 
